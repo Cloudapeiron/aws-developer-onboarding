@@ -1,0 +1,4 @@
+interface:
+  display_name: "AWS Developer Onboarding"
+  short_description: "Safely onboard developers to private AWS workloads"
+  default_prompt: "Use $aws-developer-onboarding to prepare this workstation for approved AWS access."
